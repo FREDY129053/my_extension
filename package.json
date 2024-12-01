@@ -1,8 +1,11 @@
 {
   "publisher": "Fredy129053",
-  "name": "react_small_helper",
+  "name": "react-small-helper",
   "displayName": "react useState helper",
   "description": "generate second part of useState easily",
+  "repository": {
+    "github": "https://github.com/FREDY129053/my_extension.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
